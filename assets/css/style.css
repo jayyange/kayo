@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 99999;
-  background: rgb(128,0,128);
+  background: #4caf50;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 0;
 }
 .back-to-top:hover {
-  background: rgb(128,0,128);
+  background: #4caf50;
   color: #fff;
 }
 .back-to-top.active {
@@ -129,10 +129,10 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: 5px;
 }
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: rgb(128,0,128);
+  color: #4caf50;
 }
 .navbar .getstarted, .navbar .getstarted:focus {
-  background: rgb(128,0,128);
+  background: #4caf50;
   padding: 8px 20px;
   margin-left: 30px;
   border-radius: 4px;
@@ -140,7 +140,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .navbar .getstarted:hover, .navbar .getstarted:focus:hover {
   color: #fff;
-  background: rgb(128,0,128);
+  background: #4caf50;
 }
 .navbar .dropdown ul {
   display: block;
@@ -393,10 +393,10 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
-  border: 2px solid rgb(128,0,128);
+  border: 2px solid #4caf50;
 }
 #hero .btn-get-started:hover {
-  background: rgb(128,0,128);
+  background: #4caf50;
   color: #fff;
   text-decoration: none;
 }
@@ -605,7 +605,7 @@ section {
   z-index: -1;
 }
 .services .icon-box:hover::before {
-  background: rgb(128,0,128);
+  background: #4caf50;
   right: 0;
   top: 0;
   width: 100%;
@@ -677,12 +677,12 @@ section {
   border-radius: 25px;
   transition: 0.5s;
   margin-top: 10px;
-  border: 2px solid rgb(128,0,128);
+  border: 2px solid #4caf50;
   color: #fff;
 }
 .cta .cta-btn:hover {
-  background: rgb(128,0,128);
-  border: 2px solid rgb(128,0,128);
+  background: #4caf50;
+  border: 2px solid #4caf50;
 }
 
 /*--------------------------------------------------------------
@@ -711,11 +711,11 @@ section {
 .more-services .btn {
   border-radius: 50px;
   padding: 4px 30px 6px 30px;
-  border: 2px solid rgb(128,0,128);
+  border: 2px solid #4caf50;
 }
 .more-services .btn:hover {
   color: #fff;
-  background: rgb(128,0,128);
+  background: #4caf50;
 }
 
 /*--------------------------------------------------------------
@@ -1164,13 +1164,13 @@ section {
 }
 .contact .php-email-form button[type=submit] {
   background: #fff;
-  border: 2px solid rgb(128,0,128);
+  border: 2px solid #4caf50;
   padding: 10px 24px;
-  color: rgb(128,0,128);
+  color: #4caf50;
   transition: 0.4s;
 }
 .contact .php-email-form button[type=submit]:hover {
-  background: rgb(128,0,128);
+  background: #4caf50;
   color: #fff;
 }
 @media (max-width: 1024px) {
@@ -1309,13 +1309,13 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: rgb(128,0,128);
+  background: #4caf50;
   color: #fff;
   transition: 0.3s;
   border-radius: 4;
 }
 #footer .footer-top .footer-newsletter form input[type=submit]:hover {
-  background: rgb(128,0,128);
+  background: #4caf50;
 }
 #footer .copyright {
   text-align: center;
