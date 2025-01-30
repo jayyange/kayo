@@ -595,7 +595,7 @@ section {
 .services .icon-box::before {
   content: "";
   position: absolute;
-  background: rgb(201, 108, 3);
+  background: #d81b60;
   right: -60px;
   top: -40px;
   width: 100px;
@@ -620,7 +620,7 @@ section {
   border-radius: 50%;
   width: 60px;
   height: 60px;
-  background: rgb(16, 209, 243);
+  background: #d81b60;
   transition: all 0.3s ease-in-out;
 }
 .services .icon i {
